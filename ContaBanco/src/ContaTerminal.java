@@ -24,6 +24,7 @@ public class ContaTerminal {
         saldo = ler.nextFloat();
 
         System.out.printf("Conta: %d Agência: %s Cliente: %s Saldo: %.2f \n", conta, agencia, nomeCliente, saldo);
+        
 
     }
 }
